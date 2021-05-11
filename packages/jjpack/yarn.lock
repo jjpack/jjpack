@@ -76,6 +76,11 @@
   resolved "https://registry.npm.taobao.org/@types/configstore/download/@types/configstore-4.0.0.tgz#cb718f9507e9ee73782f40d07aaca1cd747e36fa"
   integrity sha1-y3GPlQfp7nN4L0DQeqyhzXR+Nvo=
 
+"@types/envinfo@^7.8.0":
+  version "7.8.0"
+  resolved "https://registry.nlark.com/@types/envinfo/download/@types/envinfo-7.8.0.tgz#0b407be2ca3052a7739f67fa791f8119800b3d9f"
+  integrity sha1-C0B74sowUqdzn2f6eR+BGYALPZ8=
+
 "@types/fs-extra@^9.0.8":
   version "9.0.8"
   resolved "https://registry.npm.taobao.org/@types/fs-extra/download/@types/fs-extra-9.0.8.tgz#32c3c07ddf8caa5020f84b5f65a48470519f78ba"
